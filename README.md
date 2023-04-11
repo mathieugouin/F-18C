@@ -6,7 +6,7 @@ http://www.fguk.eu/index.php/hangar/viewdownload/8-military-jets/501-mcdonnell-d
 
 The McDonnell Douglas (now Boeing) F/A-18 Hornet is a twin-engine supersonic, all-weather carrier-capable multirole combat jet, designed as both a fighter and attack aircraft (F/A designation for Fighter/Attack). Designed by McDonnell Douglas and Northrop, the F/A-18 was derived from the latter's YF-17 in the 1970s for use by the United States Navy and Marine Corps. The Hornet is also used by the air forces of several other nations. The U.S. Navy's Flight Demonstration Squadron, the Blue Angels, has used the Hornet since 1986.
 
-This Aircraft requires the FGUK weapons pack, available <a href="http://www.fgukmedia.co.uk/index.php/hangar/viewdownload/11-other-objects-and-vehicles/162-fguk-payloads-package">HERE</a>
+This Aircraft requires the FGUK weapons pack, available: https://github.com/FGMEMBERS/FGUK-weapons
 
 V1.1
 -----
