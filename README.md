@@ -1,4 +1,4 @@
-![IMAGE](http://www.fguk.eu/images/jdownloads/screenshots/fgfs-screen-0254.png)
+![IMAGE](https://github.com/FGMEMBERS/F-18C/raw/master/thumbnail.jpg)
 
 FGUK's F-18C
 ============
